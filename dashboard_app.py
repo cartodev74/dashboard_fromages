@@ -16,7 +16,7 @@ CUR_DIR = os.path.dirname(__file__)
 
 # --- Streamlit Config ---
 st.set_page_config(page_title="Fromage", layout="wide")
-st.title("📊 🧀CartoFromages v4 - Real-Time Live Fromage")
+st.title("📊 🧀CartoFromages v5 - Real-Time Live Fromage")
 st.write("⏱️ Auto-refreshes every 60 seconds. Click the button below to manually refresh.")
 
 # --- Handle Manual Refresh ---
