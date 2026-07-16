@@ -158,29 +158,66 @@ st.iframe(folium.Figure().add_child(m).render(),height=500)
 ## st.logo(LOGO_URL_LARGE, link='', caption="logo réalisé par © 2023 by Martine Peters (license creative commons BY-NC-SA 4.0)")
 ## st.text("Site réalisé sans intelligence articielle, inspiré d'autres créations cités en bas de la page")
 
+# -- Sources ---
+st.subheader("Crédits")
 st.markdown("""
+<p>
+<em> Sources pour les données : </em>
+<ul>
+<li> Fond carte OpenSreetMap © OSM Contributors - IGN ADMIN EXPRESS Départements PE </li>
+<li> Données INAO SIQO Fromages 2025 - Licence ouverte ETALAB </li>
+</ul>
+</p>
+<p> 
+<em>  Sources pour la programmation : </em>
+<ul>
+<li> data-geek-lab / real time dashboard - MIT License - Copyright (c) 2025 Data-Geek-is-my-Name </li>
+<li> How to Build choropleth map in Python | Streamlit Tutorial #3 | Data Driven Maps With Python Folium - SCIENCE AND SCIENCE ONLY - Youtube</li>
+</ul>
+</p>
 
-    <footer>
-    <br> <br>
-    <center>
+<br>
+
+<p>
     <img src="https://www.cartodev.net/image/20240824_NIA_FR.png"> </img>
     <br>
-    <small>
-    Réalisé sans intelligence articielle - logo © 2023 by Martine Peters (license creative commons BY-NC-SA 4.0
+    Réalisé sans intelligence articielle
     <br>
-    <br>
-    Tableau de bord conçu par F. Bougé, juillet 2026 - Tous droits réservés -
-    <br>
-    <br>
-    Sources des données : Fond carte OpenSreetMap © OSM Contributors - IGN ADMIN EXPRESS Départements PE - Données INAO SIQO Fromages 2025 - Licence ouverte ETALAB 
-    <br>
-    Sources pour la programmation :  data-geek-lab / real time dashboard - MIT License - Copyright (c) 2025 Data-Geek-is-my-Name 
-    <br>
-    How to Build choropleth map in Python | Streamlit Tutorial #3 | Data Driven Maps With Python Folium - SCIENCE AND SCIENCE ONLY - Youtube
-    </center>
-    </small>
-    </footer>
-    """, unsafe_allow_html=True)
+    <small> source logo © 2023 by Martine Peters (license creative commons BY-NC-SA 4.0) </small>
+</p>
+""", unsafe_allow_html=True)
+
+
+
+footer="""<style>
+a:link , a:visited{
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:hover,  a:active {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+
+</style>
+<div class="footer">
+<p> Developed by F. Bougé, juillet 2026 - Tous droits réservés</a></p>
+</div>
+"""
+st.markdown(footer,unsafe_allow_html=True)
+
+
 
 
 
