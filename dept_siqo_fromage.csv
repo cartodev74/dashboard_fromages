@@ -1,0 +1,97 @@
+ID,NOM_M,NOM,INSEE_DEP,INSEE_REG,EFFECTIF,EXPLICATION,PPC,PPNC,PMCF,PMCL,PP,CH,AUTRES
+DEPARTEM_MYT_00000000001,AIN,Ain,"01","84","7",Bleu de Gex haut Jura ou Bleu de Septmoncel (Pâte persillée) 35 communes / Comté (Pâte pressée cuite) 183 communes / Emmental de Savoie (Pâte pressée cuite) 27 communes / Gruyère (Pâte pressée cuite) 255 communes / Morbier (Pâte pressée non cuite) 16 communes / Raclette de Savoie (Pâte pressée non cuite) 27 communes / Tomme de Savoie (Pâte pressée non cuite) 27 communes,"465","70","0","0","35","0","0"
+DEPARTEM_MYT_00000000002,AISNE,Aisne,"02","32","2",Brie de Meaux (Pâte molle et croûte fleurie) 1 communes / Maroilles ou Marolles (Pâte molle et croûte lavée) 102 communes,"0","0","1","102","0","0","0"
+DEPARTEM_MYT_00000000003,CORSE-DU-SUD,Corse-du-Sud,2A,"94","1","Brocciu ou Brocciu Corse (autres fromages (frais, blanc, fondu...)) 124 communes","0","0","0","0","0","0","124"
+DEPARTEM_MYT_00000000004,HAUTE-CORSE,Haute-Corse,2B,"94","1","Brocciu ou Brocciu Corse (autres fromages (frais, blanc, fondu...)) 236 communes","0","0","0","0","0","0","236"
+DEPARTEM_MYT_00000000005,ALLIER,Allier,"03","84","1",Charolais (Chèvre) 16 communes,"0","0","0","0","0","16","0"
+DEPARTEM_MYT_00000000006,ALPES-DE-HAUTE-PROVENCE,Alpes-de-Haute-Provence,"04","93","1",Banon (Chèvre) 111 communes,"0","0","0","0","0","111","0"
+DEPARTEM_MYT_00000000007,HAUTES-ALPES,Hautes-Alpes,"05","93","1",Banon (Chèvre) 33 communes,"0","0","0","0","0","33","0"
+DEPARTEM_MYT_00000000008,ALPES-MARITIMES,Alpes-Maritimes,"06","93",,,,,,,,,
+DEPARTEM_MYT_00000000009,ARDECHE,Ardèche,"07","84","1",Picodon (Chèvre) 339 communes,"0","0","0","0","0","339","0"
+DEPARTEM_MYT_00000000010,ARDENNES,Ardennes,"08","44",,,,,,,,,
+DEPARTEM_MYT_00000000011,ARIEGE,Ariège,"09","76","1",Tomme des Pyrénées (Pâte pressée non cuite) 330 communes,"0","330","0","0","0","0","0"
+DEPARTEM_MYT_00000000012,AUBE,Aube,"10","44","5",Brie de Meaux (Pâte molle et croûte fleurie) 155 communes / Brie de Melun (Pâte molle et croûte fleurie) 38 communes / Brillat-Savarin (Pâte molle et croûte fleurie) 16 communes / Chaource (Pâte molle et croûte fleurie) 139 communes / Soumaintrain (Pâte molle et croûte lavée) 47 communes,"0","0","348","47","0","0","0"
+DEPARTEM_MYT_00000000013,AUDE,Aude,"11","76","3",Pélardon (Chèvre) 62 communes / Roquefort (Pâte persillée) 26 communes / Tomme des Pyrénées (Pâte pressée non cuite) 32 communes,"0","32","0","0","26","62","0"
+DEPARTEM_MYT_00000000014,AVEYRON,Aveyron,"12","76","9",Bleu d'Auvergne (Pâte persillée) 6 communes / Bleu des Causses (Pâte persillée) 291 communes / Cantal ou Fourme de Cantal (Pâte pressée non cuite) 5 communes / Laguiole (Pâte pressée non cuite) 34 communes / Pérail (demande de reconnaissance en IGP) (Pâte molle et croûte fleurie) 173 communes / Rocamadour (Chèvre) 12 communes / Roquefort (Pâte persillée) 228 communes / Salers (Pâte pressée non cuite) 5 communes / Tome fraîche de l'Aubrac (Pâte pressée non cuite) 33 communes,"0","77","173","0","525","12","0"
+DEPARTEM_MYT_00000000015,BOUCHES-DU-RHONE,Bouches-du-Rhône,"13","93",,,,,,,,,
+DEPARTEM_MYT_00000000016,CALVADOS,Calvados,"14","28","3",Camembert de Normandie (Pâte molle et croûte fleurie) 497 communes / Livarot (Pâte molle et croûte lavée) 223 communes / Pont-l'Évêque (Pâte molle et croûte lavée) 509 communes,"0","0","497","732","0","0","0"
+DEPARTEM_MYT_00000000017,CANTAL,Cantal,"15","84","7",Bleu d'Auvergne (Pâte persillée) 245 communes / Cantal ou Fourme de Cantal (Pâte pressée non cuite) 250 communes / Fourme d'Ambert (Pâte persillée) 61 communes / Laguiole (Pâte pressée non cuite) 12 communes / Saint-Nectaire (Pâte pressée non cuite) 260 communes / Salers (Pâte pressée non cuite) 141 communes / Tome fraîche de l'Aubrac (Pâte pressée non cuite) 12 communes,"0","675","0","0","306","0","0"
+DEPARTEM_MYT_00000000018,CHARENTE,Charente,"16","75","1",Chabichou du Poitou (Chèvre) 29 communes,"0","0","0","0","0","29","0"
+DEPARTEM_MYT_00000000019,CHARENTE-MARITIME,Charente-Maritime,"17","75",,,,,,,,,
+DEPARTEM_MYT_00000000020,CHER,Cher,"18","24","3",Chavignol ou Crottin de Chavignol (Chèvre) 172 communes / Selles-sur-Cher (Chèvre) 20 communes / Valençay (Chèvre) 20 communes,"0","0","0","0","0","212","0"
+DEPARTEM_MYT_00000000021,CORREZE,Corrèze,"19","75","4",Bleu d'Auvergne (Pâte persillée) 53 communes / Cantal ou Fourme de Cantal (Pâte pressée non cuite) 8 communes / Rocamadour (Chèvre) 5 communes / Salers (Pâte pressée non cuite) 2 communes,"0","10","0","0","53","5","0"
+DEPARTEM_MYT_00000000022,COTE-D'OR,Côte-d'Or,"21","27","6",Brillat-Savarin (Pâte molle et croûte fleurie) 394 communes / Emmental français Est-Central (Pâte pressée cuite) 1 communes / Epoisses (Pâte molle et croûte lavée) 448 communes / Gruyère (Pâte pressée cuite) 51 communes / Langres (Pâte molle et croûte lavée) 4 communes / Soumaintrain (Pâte molle et croûte lavée) 117 communes,"52","0","394","569","0","0","0"
+DEPARTEM_MYT_00000000023,COTES-D'ARMOR,Côtes-d'Armor,"22","53",,,,,,,,,
+DEPARTEM_MYT_00000000024,CREUSE,Creuse,"23","75",,,,,,,,,
+DEPARTEM_MYT_00000000025,DORDOGNE,Dordogne,"24","75","1",Rocamadour (Chèvre) 13 communes,"0","0","0","0","0","13","0"
+DEPARTEM_MYT_00000000026,DOUBS,Doubs,"25","27","5",Comté (Pâte pressée cuite) 490 communes / Emmental français Est-Central (Pâte pressée cuite) 594 communes / Gruyère (Pâte pressée cuite) 594 communes / Mont d'Or ou Vacherin du Haut-Doubs (Pâte molle et croûte lavée) 95 communes / Morbier (Pâte pressée non cuite) 594 communes,"1678","594","0","95","0","0","0"
+DEPARTEM_MYT_00000000027,DROME,Drôme,"26","84","4",Banon (Chèvre) 21 communes / Bleu du Vercors-Sassenage (Pâte persillée) 13 communes / Picodon (Chèvre) 369 communes / Saint-Marcellin (Pâte molle et croûte fleurie) 76 communes,"0","0","76","0","13","390","0"
+DEPARTEM_MYT_00000000028,EURE,Eure,"27","28","3",Camembert de Normandie (Pâte molle et croûte fleurie) 120 communes / Livarot (Pâte molle et croûte lavée) 17 communes / Pont-l'Évêque (Pâte molle et croûte lavée) 108 communes,"0","0","120","125","0","0","0"
+DEPARTEM_MYT_00000000029,EURE-ET-LOIR,Eure-et-Loir,"28","24",,,,,,,,,
+DEPARTEM_MYT_00000000030,FINISTERE,Finistère,"29","53",,,,,,,,,
+DEPARTEM_MYT_00000000031,GARD,Gard,"30","76","5",Bleu des Causses (Pâte persillée) 1 communes / Pélardon (Chèvre) 230 communes / Pérail (demande de reconnaissance en IGP) (Pâte molle et croûte fleurie) 10 communes / Picodon (Chèvre) 7 communes / Roquefort (Pâte persillée) 12 communes,"0","0","10","0","13","237","0"
+DEPARTEM_MYT_00000000032,HAUTE-GARONNE,Haute-Garonne,"31","76","1",Tomme des Pyrénées (Pâte pressée non cuite) 236 communes,"0","236","0","0","0","0","0"
+DEPARTEM_MYT_00000000033,GERS,Gers,"32","76",,,,,,,,,
+DEPARTEM_MYT_00000000034,GIRONDE,Gironde,"33","75",,,,,,,,,
+DEPARTEM_MYT_00000000035,HERAULT,Hérault,"34","76","4",Bleu des Causses (Pâte persillée) 1 communes / Pélardon (Chèvre) 164 communes / Pérail (demande de reconnaissance en IGP) (Pâte molle et croûte fleurie) 20 communes / Roquefort (Pâte persillée) 69 communes,"0","0","20","0","70","164","0"
+DEPARTEM_MYT_00000000036,ILLE-ET-VILAINE,Ille-et-Vilaine,"35","53",,,,,,,,,
+DEPARTEM_MYT_00000000037,INDRE,Indre,"36","24","4",Pouligny-Saint-Pierre (Chèvre) 22 communes / Sainte-Maure de Touraine (Chèvre) 58 communes / Selles-sur-Cher (Chèvre) 48 communes / Valençay (Chèvre) 180 communes,"0","0","0","0","0","308","0"
+DEPARTEM_MYT_00000000038,INDRE-ET-LOIRE,Indre-et-Loire,"37","24","2",Sainte-Maure de Touraine (Chèvre) 277 communes / Valençay (Chèvre) 22 communes,"0","0","0","0","0","299","0"
+DEPARTEM_MYT_00000000039,ISERE,Isère,"38","84","6",Bleu du Vercors-Sassenage (Pâte persillée) 14 communes / Emmental de Savoie (Pâte pressée cuite) 5 communes / Gruyère (Pâte pressée cuite) 21 communes / Raclette de Savoie (Pâte pressée non cuite) 5 communes / Saint-Marcellin (Pâte molle et croûte fleurie) 183 communes / Tomme de Savoie (Pâte pressée non cuite) 5 communes,"26","10","183","0","14","0","0"
+DEPARTEM_MYT_00000000040,JURA,Jura,"39","27","5",Bleu de Gex haut Jura ou Bleu de Septmoncel (Pâte persillée) 39 communes / Comté (Pâte pressée cuite) 533 communes / Emmental français Est-Central (Pâte pressée cuite) 544 communes / Gruyère (Pâte pressée cuite) 544 communes / Morbier (Pâte pressée non cuite) 533 communes,"1621","533","0","0","39","0","0"
+DEPARTEM_MYT_00000000041,LANDES,Landes,"40","75",,,,,,,,,
+DEPARTEM_MYT_00000000042,LOIR-ET-CHER,Loir-et-Cher,"41","24","3",Sainte-Maure de Touraine (Chèvre) 80 communes / Selles-sur-Cher (Chèvre) 69 communes / Valençay (Chèvre) 11 communes,"0","0","0","0","0","160","0"
+DEPARTEM_MYT_00000000043,LOIRE,Loire,"42","84","4",Charolais (Chèvre) 31 communes / Fourme d'Ambert (Pâte persillée) 8 communes / Fourme de Montbrison (Pâte persillée) 28 communes / Rigotte de Condrieu (Chèvre) 35 communes,"0","0","0","0","36","66","0"
+DEPARTEM_MYT_00000000044,HAUTE-LOIRE,Haute-Loire,"43","84","3",Bleu d'Auvergne (Pâte persillée) 28 communes / Cantal ou Fourme de Cantal (Pâte pressée non cuite) 2 communes / Salers (Pâte pressée non cuite) 1 communes,"0","3","0","0","28","0","0"
+DEPARTEM_MYT_00000000045,LOIRE-ATLANTIQUE,Loire-Atlantique,"44","52",,,,,,,,,
+DEPARTEM_MYT_00000000046,LOIRET,Loiret,"45","24","2",Brie de Meaux (Pâte molle et croûte fleurie) 42 communes / Chavignol ou Crottin de Chavignol (Chèvre) 15 communes,"0","0","42","0","0","15","0"
+DEPARTEM_MYT_00000000047,LOT,Lot,"46","76","3",Bleu d'Auvergne (Pâte persillée) 40 communes / Bleu des Causses (Pâte persillée) 183 communes / Rocamadour (Chèvre) 232 communes,"0","0","0","0","223","232","0"
+DEPARTEM_MYT_00000000048,LOT-ET-GARONNE,Lot-et-Garonne,"47","75",,,,,,,,,
+DEPARTEM_MYT_00000000049,LOZERE,Lozère,"48","76","7",Bleu d'Auvergne (Pâte persillée) 63 communes / Bleu des Causses (Pâte persillée) 78 communes / Laguiole (Pâte pressée non cuite) 30 communes / Pélardon (Chèvre) 46 communes / Pérail (demande de reconnaissance en IGP) (Pâte molle et croûte fleurie) 47 communes / Roquefort (Pâte persillée) 56 communes / Tome fraîche de l'Aubrac (Pâte pressée non cuite) 30 communes,"0","60","47","0","197","46","0"
+DEPARTEM_MYT_00000000050,MAINE-ET-LOIRE,Maine-et-Loire,"49","52",,,,,,,,,
+DEPARTEM_MYT_00000000051,MANCHE,Manche,"50","28","2",Camembert de Normandie (Pâte molle et croûte fleurie) 567 communes / Pont-l'Évêque (Pâte molle et croûte lavée) 462 communes,"0","0","567","462","0","0","0"
+DEPARTEM_MYT_00000000052,MARNE,Marne,"51","44","1",Brie de Meaux (Pâte molle et croûte fleurie) 164 communes,"0","0","164","0","0","0","0"
+DEPARTEM_MYT_00000000053,HAUTE-MARNE,Haute-Marne,"52","44","5",Brie de Meaux (Pâte molle et croûte fleurie) 72 communes / Emmental français Est-Central (Pâte pressée cuite) 433 communes / Epoisses (Pâte molle et croûte lavée) 38 communes / Gruyère (Pâte pressée cuite) 196 communes / Langres (Pâte molle et croûte lavée) 318 communes,"629","0","72","356","0","0","0"
+DEPARTEM_MYT_00000000054,MAYENNE,Mayenne,"53","52",,,,,,,,,
+DEPARTEM_MYT_00000000055,MEURTHE-ET-MOSELLE,Meurthe-et-Moselle,"54","44","1",Munster ou Munster Géromé (Pâte molle et croûte lavée) 65 communes,"0","0","0","65","0","0","0"
+DEPARTEM_MYT_00000000056,MEUSE,Meuse,"55","44","1",Brie de Meaux (Pâte molle et croûte fleurie) 215 communes,"0","0","215","0","0","0","0"
+DEPARTEM_MYT_00000000057,MORBIHAN,Morbihan,"56","53",,,,,,,,,
+DEPARTEM_MYT_00000000058,MOSELLE,Moselle,"57","44","1",Munster ou Munster Géromé (Pâte molle et croûte lavée) 156 communes,"0","0","0","156","0","0","0"
+DEPARTEM_MYT_00000000059,NIEVRE,Nièvre,"58","27","1",Chavignol ou Crottin de Chavignol (Chèvre) 26 communes,"0","0","0","0","0","26","0"
+DEPARTEM_MYT_00000000060,NORD,Nord,"59","32","1",Maroilles ou Marolles (Pâte molle et croûte lavée) 87 communes,"0","0","0","87","0","0","0"
+DEPARTEM_MYT_00000000061,OISE,Oise,"60","32","1",Neufchâtel (Pâte molle et croûte fleurie) 1 communes,"0","0","1","0","0","0","0"
+DEPARTEM_MYT_00000000062,ORNE,Orne,"61","28","3",Camembert de Normandie (Pâte molle et croûte fleurie) 369 communes / Livarot (Pâte molle et croûte lavée) 50 communes / Pont-l'Évêque (Pâte molle et croûte lavée) 286 communes,"0","0","369","336","0","0","0"
+DEPARTEM_MYT_00000000063,PAS-DE-CALAIS,Pas-de-Calais,"62","32",,,,,,,,,
+DEPARTEM_MYT_00000000064,PUY-DE-DOME,Puy-de-Dôme,"63","84","6",Bleu d'Auvergne (Pâte persillée) 205 communes / Cantal ou Fourme de Cantal (Pâte pressée non cuite) 25 communes / Fourme d'Ambert (Pâte persillée) 294 communes / Fourme de Montbrison (Pâte persillée) 5 communes / Saint-Nectaire (Pâte pressée non cuite) 470 communes / Salers (Pâte pressée non cuite) 24 communes,"0","519","0","0","504","0","0"
+DEPARTEM_MYT_00000000065,PYRENEES-ATLANTIQUES,Pyrénées-Atlantiques,"64","75","2",Ossau-Iraty (Pâte pressée non cuite) 371 communes / Tomme des Pyrénées (Pâte pressée non cuite) 547 communes,"0","918","0","0","0","0","0"
+DEPARTEM_MYT_00000000066,HAUTES-PYRENEES,Hautes-Pyrénées,"65","76","2",Ossau-Iraty (Pâte pressée non cuite) 3 communes / Tomme des Pyrénées (Pâte pressée non cuite) 474 communes,"0","477","0","0","0","0","0"
+DEPARTEM_MYT_00000000067,PYRENEES-ORIENTALES,Pyrénées-Orientales,"66","76",,,,,,,,,
+DEPARTEM_MYT_00000000068,BAS-RHIN,Bas-Rhin,"67","44","1",Munster ou Munster Géromé (Pâte molle et croûte lavée) 259 communes,"0","0","0","259","0","0","0"
+DEPARTEM_MYT_00000000069,HAUT-RHIN,Haut-Rhin,"68","44","1",Munster ou Munster Géromé (Pâte molle et croûte lavée) 252 communes,"0","0","0","252","0","0","0"
+DEPARTEM_MYT_00000000070,RHONE,Rhône,"69","84","3",Charolais (Chèvre) 21 communes / Mâconnais (Chèvre) 1 communes / Rigotte de Condrieu (Chèvre) 13 communes,"0","0","0","0","0","35","0"
+DEPARTEM_MYT_00000000071,HAUTE-SAONE,Haute-Saône,"70","27","3",Emmental français Est-Central (Pâte pressée cuite) 545 communes / Gruyère (Pâte pressée cuite) 545 communes / Munster ou Munster Géromé (Pâte molle et croûte lavée) 49 communes,"1090","0","0","49","0","0","0"
+DEPARTEM_MYT_00000000072,SAONE-ET-LOIRE,Saône-et-Loire,"71","27","6",Brillat-Savarin (Pâte molle et croûte fleurie) 73 communes / Charolais (Chèvre) 219 communes / Comté (Pâte pressée cuite) 13 communes / Gruyère (Pâte pressée cuite) 46 communes / Mâconnais (Chèvre) 101 communes / Morbier (Pâte pressée non cuite) 13 communes,"59","13","73","0","0","320","0"
+DEPARTEM_MYT_00000000073,SARTHE,Sarthe,"72","52",,,,,,,,,
+DEPARTEM_MYT_00000000074,SAVOIE,Savoie,"73","84","9",Beaufort (Pâte pressée cuite) 111 communes / Chevrotin (Chèvre) 39 communes / Emmental de Savoie (Pâte pressée cuite) 209 communes / Gruyère (Pâte pressée cuite) 305 communes / Raclette de Savoie (Pâte pressée non cuite) 305 communes / Reblochon ou Reblochon de Savoie (Pâte pressée non cuite) 9 communes / Saint-Marcellin (Pâte molle et croûte fleurie) 13 communes / Tome des Bauges (Pâte pressée non cuite) 36 communes / Tomme de Savoie (Pâte pressée non cuite) 305 communes,"625","655","13","0","0","39","0"
+DEPARTEM_MYT_00000000075,HAUTE-SAVOIE,Haute-Savoie,"74","84","10",Abondance (Pâte pressée cuite) 179 communes / Beaufort (Pâte pressée cuite) 2 communes / Chevrotin (Chèvre) 115 communes / Comté (Pâte pressée cuite) 1 communes / Emmental de Savoie (Pâte pressée cuite) 258 communes / Gruyère (Pâte pressée cuite) 294 communes / Raclette de Savoie (Pâte pressée non cuite) 294 communes / Reblochon ou Reblochon de Savoie (Pâte pressée non cuite) 176 communes / Tome des Bauges (Pâte pressée non cuite) 19 communes / Tomme de Savoie (Pâte pressée non cuite) 294 communes,"734","783","0","0","0","115","0"
+DEPARTEM_MYT_00000000076,PARIS,Paris,"75","11","1",Brie de Meaux (Pâte molle et croûte fleurie) 20 communes,"0","0","20","0","0","0","0"
+DEPARTEM_MYT_00000000077,SEINE-MARITIME,Seine-Maritime,"76","28","1",Neufchâtel (Pâte molle et croûte fleurie) 133 communes,"0","0","133","0","0","0","0"
+DEPARTEM_MYT_00000000078,SEINE-ET-MARNE,Seine-et-Marne,"77","11","3",Brie de Meaux (Pâte molle et croûte fleurie) 514 communes / Brie de Melun (Pâte molle et croûte fleurie) 514 communes / Brillat-Savarin (Pâte molle et croûte fleurie) 142 communes,"0","0","1170","0","0","0","0"
+DEPARTEM_MYT_00000000079,YVELINES,Yvelines,"78","11",,,,,,,,,
+DEPARTEM_MYT_00000000080,DEUX-SEVRES,Deux-Sèvres,"79","75","1",Chabichou du Poitou (Chèvre) 169 communes,"0","0","0","0","0","169","0"
+DEPARTEM_MYT_00000000081,SOMME,Somme,"80","32",,,,,,,,,
+DEPARTEM_MYT_00000000082,TARN,Tarn,"81","76","3",Pélardon (Chèvre) 1 communes / Pérail (demande de reconnaissance en IGP) (Pâte molle et croûte fleurie) 72 communes / Roquefort (Pâte persillée) 169 communes,"0","0","72","0","169","1","0"
+DEPARTEM_MYT_00000000083,TARN-ET-GARONNE,Tarn-et-Garonne,"82","76","1",Rocamadour (Chèvre) 4 communes,"0","0","0","0","0","4","0"
+DEPARTEM_MYT_00000000084,VAR,Var,"83","93",,,,,,,,,
+DEPARTEM_MYT_00000000085,VAUCLUSE,Vaucluse,"84","93","2",Banon (Chèvre) 14 communes / Picodon (Chèvre) 4 communes,"0","0","0","0","0","18","0"
+DEPARTEM_MYT_00000000086,VENDEE,Vendée,"85","52",,,,,,,,,
+DEPARTEM_MYT_00000000087,VIENNE,Vienne,"86","75","2",Chabichou du Poitou (Chèvre) 192 communes / Sainte-Maure de Touraine (Chèvre) 38 communes,"0","0","0","0","0","230","0"
+DEPARTEM_MYT_00000000088,HAUTE-VIENNE,Haute-Vienne,"87","75",,,,,,,,,
+DEPARTEM_MYT_00000000089,VOSGES,Vosges,"88","44","4",Emmental français Est-Central (Pâte pressée cuite) 515 communes / Gruyère (Pâte pressée cuite) 82 communes / Langres (Pâte molle et croûte lavée) 25 communes / Munster ou Munster Géromé (Pâte molle et croûte lavée) 467 communes,"597","0","0","492","0","0","0"
+DEPARTEM_MYT_00000000090,YONNE,Yonne,"89","27","6",Brie de Meaux (Pâte molle et croûte fleurie) 36 communes / Brie de Melun (Pâte molle et croûte fleurie) 42 communes / Brillat-Savarin (Pâte molle et croûte fleurie) 254 communes / Chaource (Pâte molle et croûte fleurie) 95 communes / Epoisses (Pâte molle et croûte lavée) 46 communes / Soumaintrain (Pâte molle et croûte lavée) 101 communes,"0","0","427","147","0","0","0"
+DEPARTEM_MYT_00000000091,TERRITOIRE DE BELFORT,Territoire de Belfort,"90","27","3",Emmental français Est-Central (Pâte pressée cuite) 102 communes / Gruyère (Pâte pressée cuite) 102 communes / Munster ou Munster Géromé (Pâte molle et croûte lavée) 92 communes,"204","0","0","92","0","0","0"
+DEPARTEM_MYT_00000000092,ESSONNE,Essonne,"91","11",,,,,,,,,
+DEPARTEM_MYT_00000000093,HAUTS-DE-SEINE,Hauts-de-Seine,"92","11","1",Brie de Meaux (Pâte molle et croûte fleurie) 36 communes,"0","0","36","0","0","0","0"
+DEPARTEM_MYT_00000000094,SEINE-SAINT-DENIS,Seine-Saint-Denis,"93","11","1",Brie de Meaux (Pâte molle et croûte fleurie) 40 communes,"0","0","40","0","0","0","0"
+DEPARTEM_MYT_00000000095,VAL-DE-MARNE,Val-de-Marne,"94","11","1",Brie de Meaux (Pâte molle et croûte fleurie) 47 communes,"0","0","47","0","0","0","0"
+DEPARTEM_MYT_00000000096,VAL-D'OISE,Val-d'Oise,"95","11",,,,,,,,,
